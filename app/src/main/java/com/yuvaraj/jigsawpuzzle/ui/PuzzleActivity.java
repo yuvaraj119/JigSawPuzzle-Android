@@ -76,6 +76,8 @@ public class PuzzleActivity extends AppCompatActivity {
             recursive(random.nextInt(8), i);
         }
 
+        
+
         RelativeLayout.LayoutParams params;
         for (int i = 0; i < 3; i++) {
             for (int j = 0; j < 3; j++) {
