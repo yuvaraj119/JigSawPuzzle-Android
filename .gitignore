@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 *.iml
 .gradle
 /local.properties
@@ -48,4 +47,3 @@ captures/
 
 # Keystore files
 *.jks
->>>>>>> parent of 5912060... Delete .gitignore
